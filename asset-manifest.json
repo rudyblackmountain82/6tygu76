@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rudyblackmountain82.github.io/csb-86jp3/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://rudyblackmountain82.github.io/csb-86jp3/static/js/main.f594b1c4.chunk.js",
+    "main.js.map": "https://rudyblackmountain82.github.io/csb-86jp3/static/js/main.f594b1c4.chunk.js.map",
+    "runtime-main.js": "https://rudyblackmountain82.github.io/csb-86jp3/static/js/runtime-main.20063d30.js",
+    "runtime-main.js.map": "https://rudyblackmountain82.github.io/csb-86jp3/static/js/runtime-main.20063d30.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://rudyblackmountain82.github.io/csb-86jp3/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://rudyblackmountain82.github.io/csb-86jp3/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://rudyblackmountain82.github.io/csb-86jp3/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://rudyblackmountain82.github.io/csb-86jp3/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://rudyblackmountain82.github.io/csb-86jp3/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20063d30.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f594b1c4.chunk.js"
+  ]
+}
